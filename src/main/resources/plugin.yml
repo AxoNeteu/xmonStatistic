@@ -1,0 +1,5 @@
+main: 'cf.xmon.statistic.Main'
+name: 'xmonStatistic'
+version: '1.0'
+commands:
+  stats:
